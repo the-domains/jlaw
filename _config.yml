@@ -2,6 +2,7 @@ name: JLAW
 favicon: null
 layout_spectrum: 0.52475
 typography_spectrum: 0.53218
+title: (BETA)
 cta:
   domain: null
   bucket: null
