@@ -1,14 +1,28 @@
-layout_spectrum: 1
-color:
-  saturation: 1
-  brandStrength: 0.6350217
-  lightness: 0.8914894
-  rhythmicContrast: 0
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-typography_spectrum: 1
 name: JLAW
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#052a01'
+    - '#094601'
+    - '#028500'
+    - '#066c01'
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
+purpose: []
